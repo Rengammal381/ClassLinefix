@@ -133,4 +133,4 @@ java -jar ClassLinefix-1.0.0.jar -i lib2 -o lib -p com.fr.license.function,com.f
 默认为INFO输出详细日志在log目录下
 
 ![](images/b84b8c55-1b28-40b3-a928-48a52b4b225e.png)
-使用恢复后的行号运行程序，将恢复行号后的lib加入idea依赖可以看到成功断点
+使用恢复行号后的jar运行程序，然后将恢复行号的lib加入idea依赖可以看到成功断点
