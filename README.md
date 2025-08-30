@@ -63,9 +63,6 @@ java -jar ClassLinefix.jar -i ./input-jars -o ./output-jars -s true -p "com.obfu
 ### 内部类处理 (`--skip-inner`)
 - **默认值**: `false`
 - **作用**: 控制是否处理内部类和包含内部类的外部类
-- **建议**: 
-  - 对于混淆后的代码，建议设置为 `true`，因为内部类通常会增加复杂性
-  - 对于需要完整调试信息的场景，可设置为 `false`
 
 ### 包排除 (`--packages`)
 - **格式**: 逗号分隔的包名或类名列表
