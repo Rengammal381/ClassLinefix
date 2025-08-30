@@ -1,6 +1,7 @@
+![4de798b7ba63fa0fb6a2b7f338bd997](https://github.com/user-attachments/assets/030b190e-d33b-4f50-a19c-6044f41b9cb6)
 # ClassLinefix
 
-一个专业的Java字节码行号恢复工具，专为无行号信息的调试场景设计。
+一个专业的Java字节码行号恢复工具，可以为字节码添加顺序行号，使得调试和异常堆栈跟踪更加清晰。
 
 
 ## 特性
