@@ -122,6 +122,10 @@ A：行号恢复不能完美复原
 
 # 帆软行号恢复
 
+未恢复行号前帆软不能正常调试
+![](https://github.com/user-attachments/assets/93b3ef73-a058-4449-a1dc-14c645c78c7f)
+只能打方法断点，行断点显示不可用
+
 将工具复制到帆软的`WEB-INF`下，重命名lib为lib2然后执行下面命令
 
 ```bash
